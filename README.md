@@ -5,18 +5,17 @@
 </p>
 
 <br>
-
-<img align="right" src="https://i.imgflip.com/65efzo.gif" height="260"/>
-
 <h2>🚀 About Me</h2>
-
+<img align="right" 
+     src="https://raw.githubusercontent.com/Amrita-creator/Amrita-creator/main/neuralgif-ezgif.com-video-to-gif-converter.gif" 
+     width="320"/>
 <p>
 I am a B.Tech Computer Science student passionate about <b>Machine Learning, Deep Learning, and Computer Vision</b>.
 I enjoy turning mathematical concepts into real-world AI solutions and building projects that combine creativity with intelligence.
 </p>
 
 <p>
-I am actively seeking <b>Machine Learning internships</b> and opportunities where I can contribute, learn, and grow as a Creative ML Engineer.
+Actively seeking <b>Machine Learning internships</b> and opportunity where I can build impactful solutions,contribute meaningfully,and grow as a Creative ML Engineer.
 </p>
 
 <br clear="right"/>
