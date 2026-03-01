@@ -1,86 +1,78 @@
-<h1 align="center">Hi 👋, I'm Amrita Chaturvedi</h1>
-<h3 align="center">Machine Learning Enthusiast | Neural Networks | Deep Learning Explorer</h3>
+<h1 align="center">🌟 Hi, I'm Amrita 👋</h1>
 
----
-
-## 🚀 About Me
-- 🎯 Passionate about **Machine Learning and Neural Networks**
-- 🧠 Exploring the depth of **Deep Learning architectures**
-- 🔍 Curious about **Computer Vision**
-- 🚀 Focused on applying theoretical concepts to real-world AI problems
-- 📚 Continuously learning and building
-
----
-
-## 🛠️ Languages & Tools
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
+<p align="center">
+  <b>Creative ML Builder | Aspiring ML Engineer | Deep Learning Enthusiast</b>
 </p>
 
----
+<br>
 
-## 📌 Featured Projects
+<img align="right" src="https://i.imgflip.com/65efzo.gif" height="260"/>
 
-### 💳 CreditWise
-Supervised Learning project for credit prediction.
-- Implemented classification algorithms
-- Performed preprocessing and feature engineering
-- Evaluated model performance using accuracy and other metrics
+<h2>🚀 About Me</h2>
 
-### 🧠 SmartCard
-Unsupervised Learning project for customer segmentation.
-- Applied clustering algorithms (e.g., K-Means)
-- Identified customer groups based on behavior
-- Generated segmentation insights
+<p>
+I am a B.Tech Computer Science student passionate about <b>Machine Learning, Deep Learning, and Computer Vision</b>.
+I enjoy turning mathematical concepts into real-world AI solutions and building projects that combine creativity with intelligence.
+</p>
 
-### 🖼️ CIFAR-10 Image Sphere
-Deep Learning project using Convolutional Neural Networks.
-- Built CNN model on the CIFAR-10 dataset
-- Developed image classification pipeline
-- Evaluated training and validation performance
+<p>
+I am actively seeking <b>Machine Learning internships</b> and opportunities where I can contribute, learn, and grow as a Creative ML Engineer.
+</p>
 
----
+<br clear="right"/>
 
-## 📚 Learning Roadmap
-- ✅ Machine Learning Fundamentals  
-- ✅ Convolutional Neural Networks  
-- 🔄 Deep Learning Architectures  
-- 🔜 Advanced Computer Vision  
-- 🔜 Model Optimization & Deployment  
+<h2>🎯 Focus Areas</h2>
 
----
+<ul>
+  <li>Neural Networks & Deep Learning</li>
+  <li>Unsupervised Learning & Clustering</li>
+  <li>Computer Vision (CNNs, Image Classification)</li>
+  <li>End-to-End ML Project Development</li>
+</ul>
 
-## 🎯 Current Focus
-- Strengthening Deep Learning foundations
-- Building end-to-end Neural Network projects
-- Exploring practical Computer Vision applications
+<h2>🛠️ Tech Stack</h2>
 
----
+<p>
+Python •  PyTorch • Scikit-learn • NumPy • Pandas • Matplotlib • Jupyter
+</p>
 
-## 📫 Connect With Me
-- 📧 Email: amritachaturvedi094@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/amrita-chaturvedi-13359b336
+<h2>🚀 Projects</h2>
 
----
+<h3>💳 Smart Card Customer Segmentation (Unsupervised Learning)</h3>
+<p>
+Built a Smart Card analytics system using clustering algorithms to segment customers based on behavioral and financial patterns. 
+Applied data preprocessing, feature scaling, and algorithms like K-Means to identify meaningful customer groups for targeted decision-making.
+</p>
 
-⭐ Open to collaboration, internships, and AI-focused opportunities.
+<h3>🧠 Image Classification using CNN</h3>
+<p>
+Built and trained a Convolutional Neural Network using PyTorch for multi-class image classification. 
+Implemented forward propagation, batch training, optimizer tuning, and performance evaluation.
+</p>
+
+<h3>📊 Loan Approval Prediction</h3>
+<p>
+Developed a machine learning classification model to predict loan approval outcomes. 
+Performed preprocessing, feature scaling, model comparison, and evaluation using accuracy and confusion matrix.
+</p>
+
+<h2>🤝 Open To</h2>
+
+<ul>
+  <li>Machine Learning Internships</li>
+  <li>AI Research Opportunities</li>
+  <li>Collaborative ML Projects</li>
+</ul>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+<a href="https://github.com/Amrita-creator">GitHub</a> |
+<a href="https://linkedin.com/in/YOUR-LINK-HERE">LinkedIn</a>
+</p>
+
+<br>
+
+<p align="center">
+  Made with ❤️ by Amrita
+</p>
